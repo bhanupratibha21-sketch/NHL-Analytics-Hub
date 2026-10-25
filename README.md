@@ -1,3 +1,4 @@
+ HEAD
 # NHL Analytics Hub
 
 ## Project Overview
@@ -245,3 +246,7 @@ The notebook is used to explore API responses, inspect structured data, and vali
 ## Author
 
 NHL Analytics Hub — NHL data exploration, relational database analytics, and interactive visualization.
+
+# NHL-Analytics-Hub
+NHL data analytics dashboard using Python, MySQL, SQL, Pandas, and Streamlit.
+origin/main
